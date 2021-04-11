@@ -1,0 +1,63 @@
+# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+# Annoying Elements, Cookie promts etc.
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+# Other uBlock Origin filters
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# CNAME record trackers
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+
+# Third party fonts
+https://fanboy.co.nz/fanboy-antifonts.txt
+
+# Other third-party tracking
+https://easylist.to/easylist/fanboy-social.txt
+
+# Annoyances on Twitter
+https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
+
+# My own block list
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+
+
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/fanboy-social.txt
+
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/antiadblock.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/push-notifications.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/remains.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-YouTube-Ads.txt
+https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
+https://filters.adtidy.org/extension/chromium/filters/14.txt
+https://filters.adtidy.org/extension/chromium/filters/4.txt
+https://raw.githubusercontent.com/ansul1001/Ansul-s-Ad-Filters/master/Ansul's%20Ad%20Filters
+https://raw.githubusercontent.com/r4vi/block-the-eu-cookie-shit-list/master/filterlist.txt
+https://raw.githubusercontent.com/LinuxLowell/chat-annoyances/master/chat-annoyances.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/css_style_filters.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt
+
